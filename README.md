@@ -1,18 +1,19 @@
-## Getting Started
+## Jornada Tech - Java Básico
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este é um repositório de arquivos do módulo de java básico da mentoria Jornada Tech - Maicon Gerardi.
 
-## Folder Structure
+## Conteúdos
 
-The workspace contains two folders by default, where:
+Este módulo constitui das seguintes diciplinas:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- `Primeiros passos com Java`
+- `Operadores, Comparadores e Condicionais`
+- `Vetores e Matrizes`
+- `Métodos`
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+> Além disso, ao final do módulo possui um projeto final, aplicando todo o conhecimento do módulo.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Contato
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- [https://www.linkedin.com/in/matheus-cruz-dev/](https://www.linkedin.com/in/matheus-cruz-dev/)
+- [matheus.cruz.2004@hotmail.com](matheus.cruz.2004@hotmail.com)
