@@ -14,6 +14,8 @@ public class Ex04 {
     System.out.println("Digíte a sua idade: ");
     idade = input.nextInt();
 
+    input.nextLine();
+
     System.out.println("Digíte a sua cidade: ");
     cidade = input.nextLine();
 
